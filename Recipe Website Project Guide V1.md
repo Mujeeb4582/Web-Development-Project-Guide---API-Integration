@@ -1,4 +1,4 @@
-# Recipe Website Project Guide 🍳
+# Recipe Website Project Guide 🍳 V1
 A step-by-step guide to build a recipe website using TheMealDB API to master HTML, CSS, and JavaScript.
 
 ## 🎯 Project Overview
