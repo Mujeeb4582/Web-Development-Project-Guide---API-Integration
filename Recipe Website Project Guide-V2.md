@@ -1,4 +1,4 @@
-# Recipe Website Project - Complete Setup Guide 🍳
+# Recipe Website Project - Complete Setup Guide 🍳 V2
 
 ## 1. Project Setup
 
